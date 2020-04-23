@@ -1,0 +1,5 @@
+[
+    { "mem_id": 1, "mem_fname": "Mike", "mem_lname": "Mlastname", "mem_email": "mike@test.com", "mem_pwd": "mikepwd" },
+    { "mem_id": 2, "mem_fname": "John", "mem_lname": "Jlastname", "mem_email": "john@test.com", "mem_pwd": "johnpwd" },
+    { "mem_id": 3, "mem_fname": "Dennis", "mem_lname": "Dlastname", "mem_email": "dennis@test.com", "mem_pwd": "dennispwd" }
+]
